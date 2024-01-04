@@ -1,0 +1,30 @@
+/* For WebKit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+     height: 4px;/* Width of the entire scrollbar */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+   
+    background-color: #31C48D; /* Color of the scroll thumb */
+    border-radius: 4px; /* Rounded corners of the scroll thumb */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #ffffff; /* Color of the scrollbar track */
+  }
+  @media (prefers-color-scheme:dark){
+  }
+
+  /* Styles for dark mode */
+.dark-mode {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  /* Add more styles for dark mode */
+}
+
+/* Styles for light mode */
+.light-mode {
+  background-color: #ffffff;
+  color: #333333;
+  /* Add more styles for light mode */
+}

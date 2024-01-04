@@ -1,0 +1,550 @@
+[
+  {
+    "title": "Vellum",
+    "description": "Development platform for LLM apps.",
+    "monthly_visits": "29.2K",
+    "image": "https://cdn-images.toolify.ai/170113578438952857.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["No-Code/Low-Code", "Large Language Models (LLMs)"],
+    "url": "https://www.vellum.ai/sp/showcase"
+  },
+  {
+    "title": "Venturekit",
+    "description": "Tailored business plans using AI.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170100124839666284.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["Consulting Assistant", "Sales Assistant", "E-commerce Assistant", "Marketing Plan Generator"],
+    "url": "https://venturekit.ai"
+  },
+  {
+    "title": "AskYourPdf",
+    "description": "AI chat app AskYourPDF extracts insights from uploaded PDF documents.",
+    "monthly_visits": "2.4M",
+    "image": "https://cdn-images.toolify.ai/168546376180173994.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["AI Consulting Assistant"],
+    "url": "https://www.askyourpdf.com"
+  },
+  {
+    "title": "ChatInsight",
+    "description": "AI assistant trained on your data",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170133887381677823.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["Customer Service Assistant", "AI Chatbot", "AI Knowledge Base"],
+    "url": "https://www.chatinsight.ai"
+  },
+  {
+    "title": "Kapwing",
+    "description": "Fast, powerful, and collaborative online video editor.",
+    "monthly_visits": "4.7M",
+    "image": "https://cdn-images.toolify.ai/17013084903443001.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["Video Editor"],
+    "url": "https://www.kapwing.com/video-editor"
+  },
+  {
+    "title": "Dubbing AI",
+    "description": "Change your voice with AI for free.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126082664683561.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["Voice Changer", "Voice Chat Generator", "Fun Tools", "Game"],
+    "url": "https://dubbingai.io"
+  },
+  {
+    "title": "WooWell",
+    "description": "AI-powered dating solution for modern men.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126082039280273.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["AI Video Editor"],
+    "url": "https://woowell.ai"
+  },
+  {
+    "title": "UpdateYourResume",
+    "description": "Revamp your resume in seconds with AI-powered matching.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126082383160596.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "Resume Builder",
+    "url": "https://www.updateyourresume.xyz"
+  },
+  {
+    "title": "mern.ai",
+    "description": "AI-powered full stack development.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126082429391312.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "Developer Tools",
+    "url": "https://mern.ai"
+  },
+  {
+    "title": "Ai Background Removal and Generation",
+    "description": "Unique AI backgrounds tailored to your images.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126081564058986.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "Photo & Image Generator",
+    "url": "https://aibgen.com"
+  },
+  {
+    "title": "WatermarkRemoverAI",
+    "description": "Description for WatermarkRemoverAI.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126079132200313.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "Image Processing",
+    "url": "/tool/watermarkremoverai"
+  },
+  {
+    "title": "neoSVG",
+    "description": "Generate SVG vectors from text prompts.",
+    "monthly_visits": "6.0K",
+    "image": "https://cdn-images.toolify.ai/170126080870190035.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "Summarizer",
+    "url": "https://neosvg.com"
+  },
+  {
+    "title": "StockmusicGPT",
+    "description": "Create your own royalty-free AI stockmusic effortlessly.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126080771374390.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "Content Generator",
+    "url": "https://stockmusicgpt.com"
+  },
+  {
+    "title": "Walling AI",
+    "description": "Description for Walling AI.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126079846649819.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "Unknown Category",  
+    "url": "https://walling-ai.com"
+  },
+  {
+    "title": "Docu",
+    "description": "Transform legal jargon to insights.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126079984050749.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "AI Contract Management",
+    "url": "https://docu.review"
+  },
+  {
+    "title": "Itair",
+    "description": "AI-powered travel planning platform.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126078764485714.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "AI Trip Planner",
+    "url": "https://www.itair.io"
+  },
+  {
+    "title": "DreamMVP",
+    "description": "AI-powered MVP building solution.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126079818228766.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "AI App Builder",
+    "url": "https://www.dreammvp.com"
+  },
+  {
+    "title": "Prompteams",
+    "description": "Seamlessly craft AI agents with live testing and efficient version control.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126080085373162.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "AI Code Assistant",
+    "url": "https://www.prompteams.com"
+  },
+  {
+    "title": "Zixflow",
+    "description": "AI-driven platform for CRM, workflows, and engagement.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126078813893555.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "AI Email Marketing",
+    "url": "https://zixflow.com"
+  },
+  {
+    "title": "Magnific AI",
+    "description": "AI upscaler & enhancer with hallucinating details.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126081078690789.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "AI Photo & Image Generator",
+    "url": "https://magnific.ai"
+  },
+  {
+    "title": "CapGen - AI Caption Generator",
+    "description": "AI caption generator.",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126081098022061.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "AI Caption Generator",
+    "url": "/tool/capgen-ai-caption-generator"
+  },
+  {
+    "title": "CapGen - AI Caption Generator",
+    "description": "AI-powered tool to automatically generate social media image captions.",
+    "monthly_visits": "1.1B",
+    "image": "https://cdn-images.toolify.ai/170126080771374390.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "Content Generator",
+    "url": "https://play.google.com/store/apps/details?id=aculix.capgen.app"
+  },
+  {
+    "title": "Fortune",
+    "description": "AI accounting software for business decision making",
+    "monthly_visits": "< 5K",
+    "image": "https://cdn-images.toolify.ai/170126079073500508.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["Accounting Assistant"],
+    "url": "https://www.fortune.app"
+  },
+  {
+    "title": "LiarLiar.ai",
+    "description": "Breakthrough AI lie detection combining psychology and computer vision.",
+    "monthly_visits": "8.6K",
+    "image": "https://cdn-images.toolify.ai/170126078240912214.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": "Analytics Assistant",
+    "url": "https://liarliar.ai"
+  },
+  {
+    "title": "NightCafe Studio",
+    "description": "Create beautiful AI art with NightCafe Creator app and connect with a thriving community.",
+    "monthly_visits": "8.1M",
+    "image": "https://cdn-images.toolify.ai/image/fdedfaeef52a26c1ef40f742c851ed6e.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["Text to Image"],
+    "url": "https://creator.nightcafe.studio"
+  },
+  {
+    "title": "Hotpot.ai",
+    "description": "Hotpot.ai is a platform that provides AI tools for creative graphic design.",
+    "monthly_visits": "4.9M",
+    "image": "https://cdn-images.toolify.ai/image/fdedfaeef52a26c1ef40f742c851ed6e.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["Text to Image"],
+    "url": "https://hotpot.ai"
+  },
+  {
+    "title": "NovelAI",
+    "description": "AI-powered subscription service for creating unique and engaging literature.",
+    "monthly_visits": "4.5M",
+    "image": "https://cdn-images.toolify.ai/image/ceddea236e1766381aaaca3b6f26aefa.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["Text to Image"],
+    "url": "https://novelai.net"
+  },
+  {
+    "title": "Gencraft",
+    "description": "Description for Gencraft tool.",
+    "monthly_visits": "Monthly Visits Value",
+    "image": "https://cdn-images.toolify.ai/168741808664078101.png?x-oss-process=image/resize,l_600,m_lfit",
+    "category": ["Text to Image"],
+    "url": "https://gencraft.url"
+  },
+  {
+    "title": "MailerLite AI Drag & Drop Editor",
+    "monthly_visits": "6.2M",
+    "image": "https://cdn-images.toolify.ai/169003638369892070.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "MailerLite is a platform providing tools for businesses to grow their audience and drive revenue.",
+    "category": ["Website Builder"],
+    "url": "https://www.mailerlite.com"
+  },
+  {
+    "title": "Framer AI",
+    "monthly_visits": "2.6M",
+    "image": "https://cdn-images.toolify.ai/169150815901166099.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Framer allows users to create, design, and publish professional websites without coding.",
+    "category": ["Website Builder"],
+    "url": "https://www.framer.com"
+  },
+  {
+    "title": "MyShell",
+    "monthly_visits": "1.6M",
+    "image": "https://cdn-images.toolify.ai/168433734517683653.png?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Create personalized chatbots with MyShell platform, powered by AI and Web3. Share and customize with friends.",
+    "category": ["Website Builder"],
+    "url": "https://www.myshell.ai"
+  },
+  {
+    "title": "Durable",
+    "monthly_visits": "1.4M",
+    "image": "https://cdn-images.toolify.ai/image/e6622ca65df37b8e53a309652f098e22.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "A platform that offers AI tools for small businesses to create and manage their websites efficiently.",
+    "category": ["Website Builder"],
+    "url": "https://durable.co/?utm_medium=Website%20Listing&utm_campaign=Toolify&utm_source=Website&utm_content=&utm_term=Toolify"
+  },
+  {
+    "title": "10Web",
+    "monthly_visits": "1.1M",
+    "image": "https://cdn-images.toolify.ai/image/f9fc1fbb5b9b94e9080f41c779b39aec.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "10Web is an AI-powered website management platform with tools for hosting, building, optimizing, and securing websites.",
+    "category": ["Website Builder"],
+    "url": "https://10web.io/?_from=toolify62"
+  },
+  {
+    "title": "Steve AI",
+    "monthly_visits": "915.5K",
+    "image": "https://cdn-images.toolify.ai/image/f7cdecf2925d240a08177c8328815750.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "A professional video making software with AI technology for quick and easy creation.",
+    "category": ["Website Builder"],
+    "url": "https://www.steve.ai"
+  },
+  {
+    "title": "Softr",
+    "monthly_visits": "825.9K",
+    "image": "https://cdn-images.toolify.ai/167898142336971576.png?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Build client portals and internal tools without coding using Softr's pre-built blocks.",
+    "category": ["Website Builder"],
+    "url": "https://softrplatformsgmbh.grsm.io/9snwwn685yk3"
+  },
+  {
+    "title": "B12.io",
+    "monthly_visits": "769.5K",
+    "image": "https://cdn-images.toolify.ai/image/940b6583bafa73d379284b2974e98718.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "AI-powered website builder for professional service providers.",
+    "category": ["Website Builder"],
+    "url": "https://b12.io"
+  },{
+    "title": "Stockimg AI",
+    "monthly_visits": "708.1K",
+    "image": "https://cdn-images.toolify.ai/168924963639237610.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Stockimg AI is an AI-powered platform for creating logos, book covers, and posters.",
+    "category": ["Website Builder"],
+    "url": "https://stockimg.ai"
+  },
+  {
+    "title": "Presentations.ai",
+    "monthly_visits": "698.2K",
+    "image": "https://cdn-images.toolify.ai/168924963639237610.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Presentations.AI is an AI-powered app that helps users create stunning presentations effortlessly.",
+    "category": ["Website Builder"],
+    "url": "https://presentations.ai"
+  },
+  {
+    "title": "unbounce",
+    "monthly_visits": "682.3K",
+    "image": "https://cdn-images.toolify.ai/image/c7ef9fca7bd3b829a7d5234c42acd811.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Unbounce is an AI-powered platform that helps businesses create and optimize landing pages.",
+    "category": ["Website Builder"],
+    "url": "https://unbounce.com"
+  },
+  {
+    "title": "Mixo.io",
+    "monthly_visits": "487.3K",
+    "image": "https://cdn-images.toolify.ai/image/52aa144eb133dabc047503ce2bfd5b1b.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Mixo is an AI website builder for entrepreneurs to launch and validate business ideas.",
+    "category": ["Website Builder"],
+    "url": "https://mixo.io/?via=toolify"
+  },
+  {
+    "title": "Otter AI",
+    "monthly_visits": "4.5M",
+    "image": "https://cdn-images.toolify.ai/image/e46c43f00f3b428d585a9b9827ca8543.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Otter.ai is a platform that provides automatic meeting notes, transcriptions, and summaries, improving productivity and collaboration.",
+    "category": ["Speech-to-Text"],
+    "url": "https://otter.ai"
+  },
+  {
+    "title": "Descript",
+    "monthly_visits": "2.2M",
+    "image": "https://cdn-images.toolify.ai/image/3ebd7a653ecae95571bcc74258b36f3e.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Descript is an all-in-one editing software for videos and podcasts with AI technology.",
+    "category": ["Speech-to-Text"],
+    "url": "https://www.descript.com/?lmref=LZUtWw"
+  },
+  {
+    "title": "fireflies.ai",
+    "monthly_visits": "1.3M",
+    "image": "https://cdn-images.toolify.ai/image/1e848ab2f4537d8766c8ce0c446e1bde.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Fireflies.ai is an AI-powered notetaking tool for transcription, summarization, and analysis of voice conversations.",
+    "category": ["Speech-to-Text"],
+    "url": "https://fireflies.ai"
+  },
+  {
+    "title": "Tactiq",
+    "monthly_visits": "1.1M",
+    "image": "https://cdn-images.toolify.ai/168255955465847488.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Tactiq is a top transcription tool for online meetings, offering real-time transcription and meeting summaries.",
+    "category": ["Speech-to-Text"],
+    "url": "https://tactiq.io"
+  },
+  {
+    "title": "Submagic 2.0",
+    "monthly_visits": "780.1K",
+    "image": "https://cdn-images.toolify.ai/170073510466414906.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "AI tool for amazing captions, B-rolls, transitions, and sound effects.",
+    "category": ["Speech-to-Text"],
+    "url": "https://www.submagic.co/product-hunt"
+  },
+  {
+    "title": "Read Speaker Coach",
+    "monthly_visits": "561.7K",
+    "image": "https://cdn-images.toolify.ai/169150377445946721.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Read improves meeting wellness with scheduling, analytics, summaries, and recommendations.",
+    "category": ["Speech-to-Text"],
+    "url": "https://www.read.ai"
+  },
+  {
+    "title": "AssemblyAI",
+    "monthly_visits": "510.2K",
+    "image": "https://cdn-images.toolify.ai/image/bb8c9517c62f4a39c11cc7f68f4618e0.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "AssemblyAI provides AI models for transcribing and understanding speech through a user-friendly API.",
+    "category": ["Speech-to-Text"],
+    "url": "https://www.assemblyai.com"
+  },
+  {
+    "title": "ScreenApp",
+    "monthly_visits": "379.6K",
+    "image": "https://cdn-images.toolify.ai/168266726733732997.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "ScreenApp is a free screen recorder with AI transcription for easy sharing of insights.",
+    "category": ["Speech-to-Text"],
+    "url": "https://screenapp.io"
+  },
+  {
+    "title": "Dictanote",
+    "monthly_visits": "173.0K",
+    "image": "https://cdn-images.toolify.ai/168353947885555174.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Dictanote is a speech recognition app for taking notes in multiple languages.",
+    "category": ["Speech-to-Text"],
+    "url": "https://dictanote.co"
+  },
+  {
+    "title": "RecCloud",
+    "monthly_visits": "170.7K",
+    "image": "https://cdn-images.toolify.ai/168803971883779285.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "A comprehensive AI-powered multimedia service platform for video recording, editing, chat, subtitles, and speech-to-text.",
+    "category": ["Speech-to-Text"],
+    "url": "https://reccloud.com"
+  },
+  {
+    "title": "Vocol.AI",
+    "monthly_visits": "170.2K",
+    "image": "https://cdn-images.toolify.ai/169079774657087729.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Vocol AI is a collaborative meeting software that transcribes voice into text accurately.",
+    "category": ["Speech-to-Text"],
+    "url": "https://www.vocol.ai"
+  },
+  {
+    "title": "Gladia",
+    "monthly_visits": "108.2K",
+    "image": "https://cdn-images.toolify.ai/170176728194252779.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Cutting-edge AI transcription, translation, and audio intelligence add-ons.",
+    "category": ["Speech-to-Text"],
+    "url": "https://www.gladia.io"
+  },
+  {
+    "title": "Noota",
+    "monthly_visits": "95.0K",
+    "image": "https://cdn-images.toolify.ai/168750927882066417.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Noota is an AI assistant that automates note-taking and generates meeting reports.",
+    "category": ["Speech-to-Text"],
+    "url": "https://www.noota.io"
+  },
+  {
+    "title": "MeetGeek",
+    "monthly_visits": "88.5K",
+    "image": "https://cdn-images.toolify.ai/167898009237466253.png?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "MeetGeek is an AI meeting assistant that records, transcribes, and provides insights from meetings.",
+    "category": ["Speech-to-Text"],
+    "url": "https://meetgeek.ai"
+  },
+  {
+    "title": "Stork",
+    "monthly_visits": "83.4K",
+    "image": "https://cdn-images.toolify.ai/168485172415778256.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Stork is an AI-powered platform that enables efficient collaboration and communication in hybrid teams.",
+    "category": ["Speech-to-Text"],
+    "url": "https://www.stork.ai"
+  },
+  {
+    "title": "ScriptMe",
+    "monthly_visits": "80.9K",
+    "image": "https://cdn-images.toolify.ai/168543989673752007.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "ScriptMe provides fast and accurate transcriptions and subtitling in multiple languages.",
+    "category": ["Speech-to-Text"],
+    "url": "https://scriptme.io"
+  },
+  {
+    "title": "Bardeen",
+    "monthly_visits": "695.4K",
+    "image": "https://cdn-images.toolify.ai/168248854031379142.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Bardeen.ai simplifies tasks by automating repetitive activities and offering app integrations.",
+    "category": ["Sales Assistant"],
+    "url": "https://www.bardeen.ai"
+  },
+  {
+    "title": "Facetune",
+    "monthly_visits": "551.7K",
+    "image": "https://cdn-images.toolify.ai/image/df7701beea83bc3f71dc97e1e1a414e0.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Facetune is a popular app that helps users enhance their selfies and create stunning visual content.",
+    "category": ["Sales Assistant"],
+    "url": "https://www.facetuneapp.com"
+  },
+  {
+    "title": "Reply.io",
+    "monthly_visits": "302.2K",
+    "image": "https://cdn-images.toolify.ai/image/a79295d528351ba02ab0e8a8268ce0bb.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "AI-powered sales email assistant for hyper-relevant and personalized emails.",
+    "category": ["Sales Assistant"],
+    "url": "https://reply.io"
+  },
+  {
+    "title": "BgRem AI",
+    "monthly_visits": "253.7K",
+    "image": "https://cdn-images.toolify.ai/168336606569465116.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "BgRem is an AI platform for creating and editing images and videos.",
+    "category": ["Sales Assistant"],
+    "url": "https://bgrem.ai"
+  },
+  {
+    "title": "Chatfuel",
+    "monthly_visits": "247.6K",
+    "image": "https://cdn-images.toolify.ai/168257976633272900.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Chatfuel is an official WhatsApp API partner, offering a messaging platform for business communication.",
+    "category": ["Sales Assistant"],
+    "url": "https://chatfuel.com"
+  },
+  {
+    "title": "Venturekit",
+    "monthly_visits": "206.2K",
+    "image": "https://cdn-images.toolify.ai/170100124839666284.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Tailored business plans using AI.",
+    "category": ["Sales Assistant"],
+    "url": "https://venturekit.ai"
+  },
+  {
+    "title": "Shulex Copilot",
+    "monthly_visits": "153.2K",
+    "image": "https://cdn-images.toolify.ai/168484966493824164.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "AI assistant for Amazon and Shopify sellers, analyzing reviews and optimizing listings.",
+    "category": ["Sales Assistant"],
+    "url": "https://www.voc.ai/tools/chatgpt-copilot?utm_source=toolify&utm_medium=toolify"
+  },
+  {
+    "title": "Hypefury",
+    "monthly_visits": "314.6K",
+    "image": "https://cdn-images.toolify.ai/168220464042413700.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Hypefury is a tool for scheduling and automating social media content on platforms like Twitter and Instagram.",
+    "category": ["Sales Assistant"],
+    "url": "https://hypefury.com/?via=toolify"
+  },
+  {
+    "title": "Copy.ai",
+    "monthly_visits": "3.2M",
+    "image": "https://cdn-images.toolify.ai/image/3d67f7ec8c1fedbee863d29166e64bdd.jpeg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Copy.ai is an AI-powered tool that simplifies marketing by generating high-quality content.",
+    "category": ["Advertising Assistant"],
+    "url": "https://www.copy.ai"
+  },
+  {
+    "title": "SoulGen",
+    "monthly_visits": "2.8M",
+    "image": "https://cdn-images.toolify.ai/168517656532736281.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Create beautiful AI characters of real or anime girls using text or prompts with SoulGen.",
+    "category": ["Advertising Assistant"],
+    "url": "https://www.soulgen.ai"
+  },
+  {
+    "title": "Monica AI",
+    "monthly_visits": "2.4M",
+    "image": "https://cdn-images.toolify.ai/16832955972067848.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "Monica is a versatile AI assistant with chat and copywriting capabilities.",
+    "category": ["Advertising Assistant"],
+    "url": "https://monica.im"
+  },
+  {
+    "title": "Hix AI",
+    "monthly_visits": "1.9M",
+    "image": "https://cdn-images.toolify.ai/169054819035381052.jpg?x-oss-process=image/resize,l_600,m_lfit",
+    "description": "HIX.AI offers powerful AI writing tools for high-quality content generation.",
+    "category": ["Advertising Assistant"],
+    "url": "https://hix.ai/?ref=yzqxndr6"
+  }
+  
+  
+  
+  
+  
+]
